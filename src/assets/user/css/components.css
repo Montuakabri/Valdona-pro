@@ -1,0 +1,88 @@
+/* social icon on footer-------------------- */
+.socialicon-list {
+  display: flex;
+}
+
+.socialicon-link {
+  background-color: var(--theme-purple);
+  width: 60px;
+  height: 60px;
+  display: block;
+  margin: 5px;
+  text-align: center;
+  line-height: 65px;
+  font-size: 22px;
+  border-radius: 50%;
+}
+.socialicon-link i {
+  color: var(--white-color) !important;
+}
+.socialicon-link:hover {
+  background-color: #9a468a;
+}
+
+/* 404 Not fund page -------------------------- */
+
+.notfound-inner {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f5f5f5;
+}
+.notfound-boby {
+  text-align: center;
+}
+
+.notefound-title {
+  font-size: 3em;
+  margin-bottom: 20px;
+  color: var(--theme-purple);
+}
+.notefound-link {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: var(--theme-purple);
+  color: #fff !important;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  margin-top: 20px;
+}
+.notefound-link:hover {
+  background-color: #9a468a;
+}
+
+/*  product card -----------------------*/
+.card-inner {
+  position: relative;
+  margin: 20px;
+}
+
+.card__image {
+  border-radius: var(--border-radius);
+}
+
+.cardbody {
+  padding: 10px 18px;
+}
+
+.card__title {
+  margin-bottom: 3px;
+  color: var(--black-color);
+}
+
+.product-brand {
+  color: var(--theme-purple);
+  font-size: 10px;
+  margin-bottom: 3px;
+}
+
+.new-badge {
+  position: absolute;
+  background-color: var(--theme-purple);
+  color: var(--white-color);
+  top: 5px;
+  left: 5px;
+}

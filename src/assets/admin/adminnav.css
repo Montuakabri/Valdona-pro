@@ -1,0 +1,11 @@
+.navlogo {
+  font-size: 34px;
+  color: var(--theme-purple);
+  font-weight: bold;
+  margin-right: 30px;
+  letter-spacing: 1px;
+  &:hover,
+  &:focus {
+    color: var(--theme-purple);
+  }
+}

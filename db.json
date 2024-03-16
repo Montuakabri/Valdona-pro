@@ -1,0 +1,74 @@
+{
+  "product":[
+    {
+      "id":"1",
+      "name":"valdona cotton red dress",
+      "price":5.99,
+      "category":"dress",
+      "images":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/0/30e9df0SNGM_1.jpg?rnd=20200526195200&tr=w-512"
+    },
+    {
+      "id":"1002",
+      "name":"valdona cotton red dress",
+      "price":5.99,
+      "category":"dress",
+      "images":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/e/cee25b7JNE4016-KR_1.jpg?rnd=20200526195200&tr=w-512"
+    },
+    {
+      "id":"1003",
+      "name":"valdona cotton red dress",
+      "price":5.99,
+      "category":"dress",
+      "images":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/b/4bf6ea8MLABAH00000367_1.jpg?rnd=20200526195200&tr=w-512"
+    },
+    {
+      "id":"1004",
+      "name":"valdona cotton red dress",
+      "price":5.99,
+      "category":"dress",
+      "images":"https://www.libas.in/cdn/shop/products/pink-printed-cotton-straight-kurta-libas-1_1800x1800.jpg?v=1705689715"
+    },
+    {
+      "id":"1005",
+      "name":"valdona cotton red dress",
+      "price":5.99,
+      "category":"dress",
+      "images":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/0/30e9df0SNGM_1.jpg?rnd=20200526195200&tr=w-512"
+    },
+    {
+      "id":"1006",
+      "name":"valdona cotton red dress",
+      "price":5.99,
+      "category":"dress",
+      "images":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/0/30e9df0SNGM_1.jpg?rnd=20200526195200&tr=w-512"
+    },
+    {
+      "id":"1007",
+      "name":"valdona cotton red dress",
+      "price":5.99,
+      "category":"kurta",
+      "images":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/0/30e9df0SNGM_1.jpg?rnd=20200526195200&tr=w-512"
+    },
+    {
+      "id":"1008",
+      "name":"valdona cotton red dress",
+      "price":5.99,
+      "category":"kurta",
+      "images":"https://www.libas.in/cdn/shop/files/34923_6_1800x1800.jpg?v=1706169536"
+    },
+    {
+      "id":"1009",
+      "name":"valdona cotton red dress",
+      "price":5.99,
+      "category":"kurta",
+      "images":"https://www.libas.in/cdn/shop/files/maroon-embroidered-silk-blend-straight-kurta-with-trousers-and-dupatta-libas-1_1800x1800.jpg?v=1705688461"
+    },
+    {
+      "id":"1010",
+      "name":"valdona cotton red dress",
+      "price":5.99,
+      "category":"kurta",
+      "images":"https://www.libas.in/cdn/shop/files/orange-printed-silk-blend-anarkali-kurta-with-trousers-and-dupatta-libas-1_1800x1800.jpg?v=1705688239"
+    }
+  ]
+}
